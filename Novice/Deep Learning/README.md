@@ -1,6 +1,6 @@
 # Deep Learning - Novice Level
 ## Getting Started
-Open starter.ipynb and complete ANY ONE task.
+Open starter.ipynb and complete *ANY ONE* task.
 ## Requirements
 - Node.js (v14 or higher recommended)
 - Jupyter Notebook or JupyterLab
