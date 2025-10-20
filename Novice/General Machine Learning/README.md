@@ -2,6 +2,10 @@
 ## Getting Started
 Open starter.ipynb and complete ANY ONE task.
 ## Requirements 
+- Node.js (v14 or higher recommended)
+- Jupyter Notebook or JupyterLab
+- Modern Web Browser (Chrome, Edge, Firefox) – if you’re running TensorFlow.js in the browser
+- Core Library: TensorFlow.js
 
 ## Instructions
 1. Open starter.ipynb
