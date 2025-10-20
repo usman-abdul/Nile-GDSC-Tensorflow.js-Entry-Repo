@@ -6,6 +6,7 @@ Open starter.ipynb and complete ANY ONE task.
 - Jupyter Notebook or JupyterLab
 - Modern Web Browser (Chrome, Edge, Firefox) – if you’re running TensorFlow.js in the browser
 - Core Library: TensorFlow.js
+- @tensorflow/tfjs-vis for visualization
 
 ## Instructions
 1. Open starter.ipynb
